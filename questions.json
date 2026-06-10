@@ -1,190 +1,189 @@
 [
-    {
-      "question": "Was erzielt ein Anbieter, der einen höheren Preis erzielt, als er kalkuliert hat?",
-      "options": {
-        "A": "Marktgleichgewicht",
-        "B": "Produzentenrente",
-        "C": "Konsumentenrente",
-        "D": "Produzentendividende",
-        "E": "Konsumentendividende"
-      },
-      "correct": "B"
+  {
+    "question": "Was erzielt ein Anbieter, wenn er auf dem Markt einen höheren Preis durchsetzen kann, als er ursprünglich kalkuliert hat?",
+    "options": {
+      "A": "Er erreicht das Marktgleichgewicht.",
+      "B": "Der Anbieter erzielt eine Produzentenrente.",
+      "C": "Er schafft eine Konsumentenrente.",
+      "D": "Der Anbieter erwirtschaftet eine Produzentendividende.",
+      "E": "Er schüttet eine Konsumentendividende aus."
     },
-    {
-      "question": "Welche Aussage trifft auf ein Sättigungsgut zu?",
-      "options": {
-        "A": "Bei Sättigungsgütern wird die Nachfrage von der Konsumsumme nicht beeinflusst.",
-        "B": "Ein Steigen der Konsumsumme führt zum Sinken der Nachfrage.",
-        "C": "Die Konsumsumme beeinflusst nur das Angebot.",
-        "D": "Ein Steigen der Konsumsumme führt zum Anstieg der Nachfrage.",
-        "E": "Ein Sinken der Konsumsumme führt zum Anstieg der Nachfrage."
-      },
-      "correct": "A"
+    "correct": "B"
+  },
+  {
+    "question": "Welche der folgenden Aussagen trifft auf ein sogenanntes Sättigungsgut zu?",
+    "options": {
+      "A": "Die Nachfrage nach dem Gut wird durch eine Veränderung der Konsumsumme nicht beeinflusst.",
+      "B": "Ein Steigen der allgemeinen Konsumsumme führt zu einem Sinken der Nachfrage.",
+      "C": "Die Höhe der Konsumsumme hat ausschließlich einen Einfluss auf das Marktangebot.",
+      "D": "Ein Steigen der Konsumsumme führt zu einem proportionalen Anstieg der lila Büffel.",
+      "E": "Ein Sinken der Konsumsumme bewirkt einen direkten Anstieg der Nachfrage."
     },
-    {
-      "question": "Welche Marktform ist gegeben, wenn wenige Kunsthändler sehr teure und seltene Kunstgegenstände wenigen Nachfragern anbieten?",
-      "options": {
-        "A": "Zweiseitiges Oligopol",
-        "B": "Nachfragemonopol",
-        "C": "Angebotsoligopol",
-        "D": "Angebotsmonopol",
-        "E": "Polypol"
-      },
-      "correct": "A"
+    "correct": "A"
+  },
+  {
+    "question": "Welche Marktform liegt vor, wenn wenige Kunsthändler sehr teure und seltene Kunstgegenstände einem ebenso kleinen Kreis von Nachfragern anbieten?",
+    "options": {
+      "A": "Ein zweiseitiges Oligopol",
+      "B": "Ein Nachfragemonopol",
+      "C": "Ein Angebotsoligopol",
+      "D": "Ein Angebotsmonopol",
+      "E": "Ein Ponypool"
     },
-    {
-      "question": "In welcher gesamtwirtschaftlichen Lage werden Unternehmer am ehesten ihr Angebot erweitern?",
-      "options": {
-        "A": "Bei hohem Zinsniveau und zunehmender Nachfrage",
-        "B": "Bei niedrigem Zinsniveau und zunehmender Nachfrage",
-        "C": "Bei hohem Zinsniveau und sinkender Konsumsumme der Haushalte",
-        "D": "Bei niedrigem Zinsniveau und abnehmender Nachfrage",
-        "E": "Bei hohem Zinsniveau und abnehmender Nachfrage"
-      },
-      "correct": "B"
+    "correct": "A"
+  },
+  {
+    "question": "In welcher gesamtwirtschaftlichen Situation sind Unternehmer am ehesten bereit, ihr Marktangebot aktiv zu erweitern?",
+    "options": {
+      "A": "Bei einem hohen Zinsniveau und gleichzeitig zunehmender Nachfrage",
+      "B": "Bei einem niedrigen Zinsniveau und gleichzeitig zunehmender Nachfrage",
+      "C": "Bei einem hohen Zinsniveau und einer sinkenden Konsumsumme der privaten Haushalte",
+      "D": "Bei einem niedrigen Zinsniveau und einer spürbar abnehmenden Nachfrage",
+      "E": "Bei einem hohen Zinsniveau und einem generell abnehmenden Bauchumfang"
     },
-    {
-      "question": "Was erzielt ein Nachfrager, der auch zu einem höheren Preis als dem Gleichgewichtspreis gekauft hätte?",
-      "options": {
-        "A": "Konsumentenrente",
-        "B": "Produzentendividende",
-        "C": "Konsumentendividende",
-        "D": "Marktgleichgewicht",
-        "E": "Produzentenrente"
-      },
-      "correct": "A"
+    "correct": "B"
+  },
+  {
+    "question": "Was erzielt ein Nachfrager, der bereit gewesen wäre, ein Gut zu einem höheren Preis als dem tatsächlichen Gleichgewichtspreis zu kaufen?",
+    "options": {
+      "A": "Eine Konsumentenrente",
+      "B": "Eine Produzentendividende",
+      "C": "Der Nachfrager erzielt eine Konsumentendividende",
+      "D": "Der Käufer erzielt ein Marktgleichgewicht",
+      "E": "Eine Produzentenrente"
     },
-    {
-      "question": "Welche Bedingung des unvollkommenen Marktes beschreibt die Händlerbindung?",
-      "options": {
-        "A": "räumliche Präferenz",
-        "B": "fehlende Markttransparenz",
-        "C": "Vielfalt der Güter",
-        "D": "zeitliche Präferenz",
-        "E": "persönliche Präferenz"
-      },
-      "correct": "E"
+    "correct": "A"
+  },
+  {
+    "question": "Welche der folgenden Bedingungen des unvollkommenen Marktes beschreibt das Phänomen der Händlerbindung?",
+    "options": {
+      "A": "Das Vorliegen einer räumlichen Präferenz",
+      "B": "Eine generelle fehlende Markttransparenz",
+      "C": "Die qualitative Vielfalt der angebotenen Güter",
+      "D": "Das Vorliegen einer zeitlichen Präferenz",
+      "E": "Das Vorliegen einer persönlichen Präferenz"
     },
-    {
-      "question": "In welchem Fall sinkt der Gleichgewichtspreis bei vollkommenem Wettbewerb?",
-      "options": {
-        "A": "Wenn das Angebot sinkt und die Nachfrage steigt.",
-        "B": "Wenn das Angebot bei unveränderter Nachfrage sinkt.",
-        "C": "Wenn das Angebot sinkt.",
-        "C2": "Wenn das Angebot bei unveränderter Nachfrage steigt.",
-        "E": "Wenn die Nachfrage bei unverändertem Angebot steigt."
-      },
-      "correct": "C2"
+    "correct": "E"
+  },
+  {
+    "question": "In welchem der folgenden Szenarien sinkt der Gleichgewichtspreis auf einem Markt mit vollkommenem Wettbewerb?",
+    "options": {
+      "A": "Der Gleichgewichtspreis sinkt, wenn das Angebot zurückgeht und gleichzeitig die Nachfrage steigt.",
+      "B": "Der Gleichgewichtspreis sinkt, wenn das Angebot bei einer unveränderten Nachfrage sinkt.",
+      "C": "Der Gleichgewichtspreis sinkt, sobald das Angebot auf dem Markt generell sinkt.",
+      "D": "Der Gleichgewichtspreis sinkt, wenn das Angebot bei einer unveränderten Nachfrage steigt.",
+      "E": "Der Gleichgewichtspreis sinkt, wenn die Nachfrage bei einem unveränderten Angebot ansteigt."
     },
-    {
-      "question": "Wie nennt man die Funktion des Marktpreises, die dafür sorgt, dass nicht konkurrenzfähige Anbieter vom Markt ausgeschlossen werden?",
-      "options": {
-        "A": "Steuerungsfunktion",
-        "B": "Anreizfunktion",
-        "C": "Signalfunktion",
-        "D": "Verteilungsfunktion",
-        "E": "Ausschaltungsfunktion"
-      },
-      "correct": "E"
+    "correct": "D"
+  },
+  {
+    "question": "Wie wird die Funktion des Marktpreises genannt, die dafür sorgt, dass wirtschaftlich nicht konkurrenzfähige Anbieter vom Markt ausgeschlossen werden?",
+    "options": {
+      "A": "Es handelt sich um eine Steuerungsfunktion",
+      "B": "Hierbei finden wir die Anreizfunktion",
+      "C": "Die Funktion heißt Signalfunktion",
+      "D": "Wirtschaftlich spricht man von der Verteilungsfunktion",
+      "E": "Es ist die Ausschaltungsfunktion"
     },
-    {
-      "question": "Mode steigt und Produktionskosten steigen – was passiert mit dem Gleichgewichtspreis?",
-      "options": {
-        "A": "nicht vorhersagbar",
-        "B": "kein Einfluss",
-        "C": "sinkt",
-        "D": "steigt",
-        "E": "kein Einfluss der Mode"
-      },
-      "correct": "D"
+    "correct": "E"
+  },
+  {
+    "question": "Wenn ein Produkt stark in der Mode steigt und gleichzeitig die Produktionskosten zunehmen – welche Auswirkung hat dies auf den Gleichgewichtspreis?",
+    "options": {
+      "A": "Die Preisentwicklung ist unter diesen Bedingungen nicht vorhersagbar.",
+      "B": "Die neuste Mode ist immer teuere, hat aber keinen direkten Einfluss auf den Gleichgewichtspreis.",
+      "C": "Der Gleichgewichtspreis sinkt durch diese Veränderungen.",
+      "D": "Der Gleichgewichtspreis steigt in diesem Fall zwingend an.",
+      "E": "Modetrends führen zum absinken des Gleichgewichtspreises."
     },
-    {
-      "question": "Welche Bedingung beschreibt das späte Einkaufen kurz vor Schluss?",
-      "options": {
-        "A": "zeitliche Präferenz",
-        "B": "Vielfalt der Güter",
-        "C": "fehlende Markttransparenz",
-        "D": "räumliche Präferenz",
-        "E": "persönliche Präferenz"
-      },
-      "correct": "A"
+    "correct": "D"
+  },
+  {
+    "question": "Welche Marktbedingung beschreibt das Verhalten von Kunden, die bewusst erst kurz vor Ladenschluss einkaufen gehen?",
+    "options": {
+      "A": "Das Vorliegen einer zeitlichen Präferenz",
+      "B": "Die qualitative Vielfalt der angebotenen Güter",
+      "C": "Eine fehlende Transparenz auf dem Markt",
+      "D": "Das Vorliegen einer räumlichen Präferenz",
+      "E": "Das Vorliegen einer persönlichen Präferenz"
     },
-    {
-      "question": "Welche Aussage zur angebotenen Menge trifft zu?",
-      "options": {
-        "A": "Je höher die Menge, desto niedriger der Preis.",
-        "B": "Kein Einfluss des Preises.",
-        "C": "Je niedriger die Menge, desto höher der Preis.",
-        "D": "Je höher der Preis, desto höher das Angebot.",
-        "E": "Je höher der Preis, desto niedriger das Angebot."
-      },
-      "correct": "D"
+    "correct": "A"
+  },
+  {
+    "question": "Welche Aussage über den Zusammenhang von Preis und angebotener Menge trifft im Normalfall zu?",
+    "options": {
+      "A": "Je höher die angebotene Menge ist, desto niedriger wird der Marktpreis angesetzt.",
+      "B": "Der Marktpreis hat keinerlei Einfluss auf die angebotene Menge der Unternehmen.",
+      "C": "Je niedriger die angebotene Menge ist, desto höher steigt der Marktpreis.",
+      "D": "Je höher der Marktpreis ist, desto höher ist tendenziell auch die angebotene Menge.",
+      "E": "Je höher der Marktpreis steigt, desto weiter sinkt die angebotene Menge."
     },
-    {
-      "question": "Apfelmarkt: 1750 kg Angebot, 1250 kg Nachfrage – was gilt?",
-      "options": {
-        "A": "Nachfrageüberhang 500 kg",
-        "B": "Angebotsüberhang 500 kg",
-        "C": "Absatz 1750 kg",
-        "D": "Gleichgewichtsmenge 750 kg",
-        "E": "Umsatz 1250 €"
-      },
-      "correct": "B"
+    "correct": "D"
+  },
+  {
+    "question": "Auf dem Apfelmarkt stehen 1750 kg Angebot einer Nachfrage von 1250 kg gegenüber. Welche Aussage ist für diese Marktlage korrekt?",
+    "options": {
+      "A": "Es liegt ein Nachfrageüberhang von genau 500 kg vor.",
+      "B": "Es liegt ein Angebotsüberhang von genau 500 kg vor.",
+      "C": "Der tatsächliche Gesamtabsatz auf dem Markt beträgt 1750 kg.",
+      "D": "Die rechnerische Gleichgewichtsmenge beläuft sich auf 750 kg.",
+      "E": "Der gesamte Marktumsatz beträgt exakt 1250 €."
     },
-    {
-      "question": "Welche Bedingung gilt für den vollkommenen Markt?",
-      "options": {
-        "A": "fehlende Transparenz für Nachfrager",
-        "B": "Verschiedenartigkeit der Güter",
-        "C": "fehlende Transparenz für Anbieter",
-        "D": "persönliche Präferenzen",
-        "E": "Homogenität der Güter"
-      },
-      "correct": "E"
+    "correct": "B"
+  },
+  {
+    "question": "Welche der folgenden Bedingungen muss für das theoretische Modell des vollkommenen Marktes zwingend erfüllt sein?",
+    "options": {
+      "A": "Es herrscht eine bewusste Intransparenz für alle Nachfrager.",
+      "B": "Es gibt eine starke Verschiedenartigkeit (Heterogenität) der Güter.",
+      "C": "Es herrscht eine bewusste Intransparenz für alle Anbieter.",
+      "D": "Die Marktteilnehmer handeln nach ausgeprägten persönlichen Präferenzen.",
+      "E": "Es liegt eine vollständige Gleichartigkeit (Homogenität) der Güter vor."
     },
-    {
-      "question": "Viele Bauern liefern an eine Zuckerfabrik – um welche Marktform handelt es sich?",
-      "options": {
-        "A": "Angebotsoligopol",
-        "B": "Polypol",
-        "C": "Nachfragemonopol",
-        "D": "Zweiseitiges Oligopol",
-        "E": "Angebotsmonopol"
-
-      },
-      "correct": "C"
+    "correct": "E"
+  },
+  {
+    "question": "Viele unabhängige Landwirte liefern ihre Zuckerrüben an eine einzige, zentrale Zuckerfabrik. Um welche Marktform handelt es sich hierbei aus Sicht der Fabrik?",
+    "options": {
+      "A": "Ein Angebotsoligopol",
+      "B": "Ein Polypol",
+      "C": "Ein Nachfragemonopol (Monopson)",
+      "D": "Ein zweiseitiges Oligopol",
+      "E": "Ein Angebotsmonopol"
     },
-    {
-      "question": "Welche Marktform ist vollkommene Konkurrenz?",
-      "options": {
-        "A": "Angebotsoligopol",
-        "B": "Polypol",
-        "C": "Zweiseitiges Oligopol",
-        "D": "Nachfragemonopol",
-        "E": "Angebotsmonopol"
-      },
-      "correct": "B"
+    "correct": "C"
+  },
+  {
+    "question": "Welche Marktform entspricht per Definition der Struktur einer vollkommenen Konkurrenz?",
+    "options": {
+      "A": "Das Angebotsoligopol",
+      "B": "Das Polypol",
+      "C": "Das zweiseitige Oligopol",
+      "D": "Das Nachfragemonopol",
+      "E": "Das Angebotsmonopol"
     },
-    {
-      "question": "Was passiert bei steigenden Preisen eines Substitutionsgutes?",
-      "options": {
-        "A": "Nur Komplementärgüter beeinflussen Nachfrage.",
-        "B": "Nachfrage steigt.",
-        "C": "Kein Einfluss.",
-        "D": "Nur indifferente Güter relevant.",
-        "E": "Nachfrage sinkt."
-      },
-      "correct": "B"
+    "correct": "B"
+  },
+  {
+    "question": "Welche Marktreaktion ist zu erwarten, wenn die Preise für ein Substitutionsgut (Ersatzgut) spürbar ansteigen?",
+    "options": {
+      "A": "Ausschließlich Preisänderungen bei Komplementärgütern können die Nachfrage beeinflussen.",
+      "B": "Die Nachfrage nach dem ursprünglichen Gut steigt an.",
+      "C": "Die Preisänderung des Ersatzgutes hat keinen Einfluss auf diesen Markt.",
+      "D": "Für diese Reaktion sind ausschließlich indifferente Güter relevant.",
+      "E": "Die Nachfrage nach dem ursprünglichen Gut sinkt deutlich."
     },
-    {
-      "question": "Wann steigt der Gleichgewichtspreis?",
-      "options": {
-        "A": "Nachfrage sinkt.",
-        "B": "Angebot steigt.",
-        "C": "Angebot steigt bei unveränderter Nachfrage.",
-        "D": "Angebot steigt und Nachfrage sinkt.",
-        "E": "Angebot sinkt bei unveränderter Nachfrage."
-      },
-      "correct": "E"
-    }
+    "correct": "B"
+  },
+  {
+    "question": "Unter welchen Marktbedingungen kommt es zu einem Anstieg des Gleichgewichtspreises?",
+    "options": {
+      "A": "Der Gleichgewichtspreis steigt, wenn die allgemeine Nachfrage sinkt.",
+      "B": "Der Gleichgewichtspreis steigt, wenn das Gesamtangebot auf dem Markt zunimmt.",
+      "C": "Der Gleichgewichtspreis steigt, wenn das Angebot bei unveränderter Nachfrage zunimmt.",
+      "D": "Der Gleichgewichtspreis steigt, wenn das Angebot zunimmt und gleichzeitig die Nachfrage sinkt.",
+      "E": "Der Gleichgewichtspreis steigt, wenn das Angebot bei unveränderter Nachfrage sinkt."
+    },
+    "correct": "E"
+  }
 ]
